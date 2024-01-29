@@ -30,7 +30,7 @@ Instalasi
 
     bash
 
-git clone https://github.com/namauser/repo-perkuliahan.git
+git clone https://github.com/bayusaputra10/repo-perkuliahan.git
 
 Buka proyek menggunakan Visual Studio atau editor kode favorit Anda.
 
